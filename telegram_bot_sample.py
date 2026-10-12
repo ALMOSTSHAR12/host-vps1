@@ -14,7 +14,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = '8537430970:AAGHMgTYpG5U3vKHC3P8Kr28ZQyp4qOC1tU'
+TOKEN = '8697626501:AAHJzJACVe-h7PL5FK3NIJSXmiQ6aodB8Nk'
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """أمر /start"""
